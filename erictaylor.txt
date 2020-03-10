@@ -4,7 +4,9 @@ Questions:
 
 Copy the questions below into the firt-lastname.txt file on your github repo - answer each question and then push your changes. 
 
-    1. What is Semantic HTML? 
+    1. What is Semantic HTML?
+				Semantic HTML is the use of HTML markup to reinforce the semantics, or 					meaning, of the information in webpages and web applications rather than 				merely to define its presentation or look.
+ 
     2. What is HTML used for? 
     3. What is an attribute and where do we put it? 
     4. What is the h1 tag used for? How many times should I use it on a page?
